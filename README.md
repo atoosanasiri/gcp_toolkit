@@ -2,6 +2,10 @@
 
 This library provides simple utility functions for Google Cloud Storage and Cloud Scheduler.
 
+# PYPI Library
+
+view at: https://pypi.org/project/gcp-toolkit/0.1.0/
+
 ## Installation
 
 ```bash
