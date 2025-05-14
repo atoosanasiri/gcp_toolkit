@@ -23,6 +23,7 @@ create_scheduler_job("my-project", "us-central1", "my-job", "my-topic")
 
 ## directory structure
 
+```bash
 gcp_toolkit/
 ├── gcp_toolkit/
 │   ├── __init__.py
@@ -36,3 +37,4 @@ gcp_toolkit/
 ├── pyproject.toml
 ├── LICENSE
 └── .gitignore
+```
